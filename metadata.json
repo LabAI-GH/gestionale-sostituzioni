@@ -1,0 +1,5 @@
+{
+  "name": "Gestionale Sostituzioni",
+  "description": "A comprehensive dashboard for managing teacher substitutions, visualizing schedules, and handling supervision duties based on the provided logic.",
+  "requestFramePermissions": []
+}
